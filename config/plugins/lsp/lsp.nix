@@ -38,6 +38,10 @@
         terraformls = {
           enable = true;
         };
+        tinymist = {
+          enable = true;
+          package = pkgs.tinymist;
+        };
         jsonls = {
           enable = true;
         };

@@ -48,6 +48,7 @@ _: {
     ./plugins/utils/mini.nix
     ./plugins/utils/markdown-preview.nix
     ./plugins/utils/toggleterm.nix
+    ./plugins/utils/typst-preview.nix
     ./plugins/utils/web-devicons.nix
   ];
 }
