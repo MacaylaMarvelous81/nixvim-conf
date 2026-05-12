@@ -38,6 +38,7 @@ _: {
     ./plugins/lsp/fidget.nix
 
     # Git
+    ./plugins/git/fugitive.nix
     ./plugins/git/lazygit.nix
     ./plugins/git/gitsigns.nix
 
