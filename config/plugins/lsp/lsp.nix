@@ -23,6 +23,9 @@
         nil_ls = {
           enable = true;
         };
+        nixd = {
+          enable = true;
+        };
         ts_ls = {
           enable = true;
         };
@@ -40,7 +43,6 @@
         };
         tinymist = {
           enable = true;
-          package = pkgs.tinymist;
         };
         jsonls = {
           enable = true;
